@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img align="right" alt="Coding" width="250" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif"><br><br>👋 Hi , I'm Anuruddha<br>💻 Welcome to the post Jurassic world where Raptor hunts the tech in wild .CODE LIKE RAPTOR 🦖💻🔥<br>🔭 I’m currently working on : Java Project.<br>🌱 I’m currently learning : Flutter<br>💬 Ask me about : Java , JVM , Python<br>
+<img align="right" alt="Coding" width="250" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif"><br><br>👋 Hi , I'm Anuruddha<br>💻 Welcome to the post Jurassic world where Raptor hunts the tech in wild .CODE LIKE RAPTOR 🦖💻🔥<br>🔭 I’m currently working on : Java Project.<br>🌱 I'm currently learning : <br>1) App Development Framework : Flutter<br>       2) Language : Python and Machine Learning <br>💬 Ask me about : Java , JVM , Operating System<br>
 
 
 ## 🌐 Socials:
